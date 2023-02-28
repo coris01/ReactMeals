@@ -1,3 +1,3 @@
 # ReactMeals
-[Deployed Link](https://food-order-bc721.firebaseapp.com/)
+[Deployment Link](https://food-order-bc721.firebaseapp.com/)
 
